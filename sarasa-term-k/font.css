@@ -1,0 +1,80 @@
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 200;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("SarasaTermK-ExtraLight.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 200;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("SarasaTermK-ExtraLightItalic.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("SarasaTermK-Light.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("SarasaTermK-LightItalic.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("SarasaTermK-Regular.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("SarasaTermK-Italic.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("SarasaTermK-SemiBold.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("SarasaTermK-SemiBoldItalic.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  src: url("SarasaTermK-Bold.subset.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Sarasa Term K";
+  font-display: swap;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: italic;
+  src: url("SarasaTermK-BoldItalic.subset.woff2") format("woff2");
+}
